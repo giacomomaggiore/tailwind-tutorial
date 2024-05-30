@@ -2,8 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
+@layer components{
     html {
-        @apply text-green-50
+        @apply bg-green-50
     }
 }

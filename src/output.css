@@ -554,6 +554,11 @@ video {
   --tw-contain-style:  ;
 }
 
+html {
+  --tw-bg-opacity: 1;
+  background-color: rgb(240 253 244 / var(--tw-bg-opacity));
+}
+
 .m-10 {
   margin: 2.5rem;
 }
